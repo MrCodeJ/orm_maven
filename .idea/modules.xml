@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jfinal_mc1_orm/jfinal_mc1_orm.iml" filepath="$PROJECT_DIR$/jfinal_mc1_orm/jfinal_mc1_orm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/orm_maven.iml" filepath="$PROJECT_DIR$/orm_maven.iml" />
+    </modules>
+  </component>
+</project>
